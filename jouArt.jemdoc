@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{jouArt.html}
+
+= \n Journal Articles
+
+:{(* is corresponding author.)}
+
+. *Feng Lyu*, Liang Fang, Guangtao Xue, Hua Xue, Minglu Li, "Large-Scale Full WiFi Coverage: Deployment and Management Strategy Based on User Spatio-Temporal Association Analytics". /IEEE Internet of Things Journal/,  DOI: 10.1109/JIOT.2019.2933266. *Q1*
+. *Feng Lyu*, Hongzi Zhu, Nan Cheng, Haibo Zhou, Wenchao Xu, Minglu Li, Xuemin (Sherman) Shen, "Characterizing Urban Vehicle-to-Vehicle Communications for Reliable Safety Applications", /IEEE Transactions on Intelligent Transportation Systems/, DOI: 10.1109/TITS.2019.2920813. *Q1*
+. *Feng Lyu*, Ju Ren, Peng Yang, Nan Cheng, Wenjuan Tang, Yaoxue Zhang, and Xuemin (Sherman) Shen, "Fine-Grained TDMA MAC Design Toward Ultra-Reliable Broadcast for Autonomous Driving". /IEEE Wireless Communications/, DOI: 10.1109/MWC.2019.1800535. *Q1*
+. *Feng Lyu*, Nan Cheng, Haibo Zhou, Wenchao Xu, Weisen Shi, Jiayin Chen, Minglu Li, "DBCC: Leveraging Link Perception for Distributed Beacon Congestion Control in VANETs", /IEEE Internet of Things Journal/, vol. 5, no. 6, pp. 4237-4249, Dec. 2018. *Q1*
+. *Feng Lyu*, Nan Cheng, Hongzi Zhu, Haibo Zhou, Wenchao Xu, Minglu Li, Xuemin (Sherman) Shen, "Intelligent Context-aware Communication Paradigm Design for IOVs based on Data Analytics", /IEEE Network/, vol. 32, no. 6, pp. 74-82, Nov. 2018. *Q1*
+. *Feng Lyu*, Hongzi Zhu, Haibo Zhou, Liping Qian, Wenchao Xu, Minglu Li, Xuemin (Sherman) Shen, “MoMAC: Mobility-Aware and Collision-Avoidance MAC for Safety Applications in VANETs“”, /IEEE Transactions on Vehicular Technology/, vol. 67, no. 11, pp. 10590-10602, Nov. 2018. *Q1*
+. *Feng Lyu*, Hongzi Zhu, Haibo Zhou, Wenchao Xu, Ning Zhang, Minglu Li, Xuemin (Sherman) Shen, "SS-MAC: A Novel Time Slot-Sharing MAC for Safety Messages Broadcasting in VANETs", /IEEE Transactions on Vehicular Technology/, vol. 67, no. 4, pp. 3586–3597, Apr. 2018. *Q1*
+. Wenchao Xu, Weisen Shi, *Feng Lyu\**, Haibo Zhou, Nan Cheng, Xuemin (Sherman) Shen, "Throughput Analysis of Vehicular Internet Access via Roadside WiFi Hotspot". /IEEE Transactions on Vehicular Technology/, vol. 68, no. 4, pp. 3980-3991, April 2019. *Q1*
+. Shan Zhang, Jiayin Chen, *Feng Lyu\**, Nan Cheng, Weisen Shi, "Vehicular Communication Networks in Automated Driving Era". /IEEE Communications Magazine/,vol. 56, no. 9, pp. 26–32, Sept. 2018. *Q1*
+. Wenchao Xu, Haibo Zhou, Huaqing Wu,*Feng Lyu*, Nan Cheng, Xuemin (Sherman) Shen, "Intelligent Link Adaptation in 802.11 Vehicular Networks: Challenges and Solutions". /IEEE Communications Standards Magazine/,vol. 3, no. 1, pp. 12–18, Mar. 2019. 
+. Weisen Shi, Junlng Li, Nan Cheng, *Feng Lyu*, Shan Zhang, Haibo Zhou, "Multi-Drone 3D Trajectory Planning and Scheduling in Drone Assisted Radio Access Networks". /IEEE Transactions on Vehicular Technology/, to appear, 2019. *Q1*
+. Nan Cheng, *Feng Lyu*, Wei Quan, Conghao Zhou, Hongli He, Weisen Shi, Xuemin (Sherman) Shen, "Space/Aerial-Assisted Computing Offloading for IoT Applications: A Learning-Based Approach". /IEEE Journal on Selected Areas in Communications/,vol. 37, no. 5, pp. 1117–1129, May 2018. *Q1*
+. Nan Cheng, *Feng Lyu*, Jiayin Chen, Wenchao Xu, Haibo Zhou, Shan Zhang, Xuemin (Sherman) Shen, “Big data driven vehicular networks”. /IEEE Network/, vol. 32, no. 6, pp. 160-167, Dec. 2018. *Q1, Hot paper, Top 0.1\%*
+. Wenchao Xu, Haibo Zhou, Nan Cheng, *Feng Lyu*, Weisen Shi, Jiayin Chen, Xuemin (Sherman) Shen, "Internet of vehicles in big data era". /IEEE\/CAA Journal of Automatica Sinica/, vol. 5, no. 1, pp. 19-35, Jan. 2018.
