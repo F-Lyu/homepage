@@ -1,30 +1,31 @@
 # jemdoc: menu{MENU}{index.html}
 
-= \n Feng Lyu\n  {{<span lang="cn" xml:lang="cn">}}吕丰{{</span>}}
+= \n Feng Lyu\n
 
 ~~~
+{}{img_left}{photo.jpg}{alt text}{142px}{200px}{photo.jpg}
 
 Post-Doctoral Fellow
 
-[http://www.uwaterloo.ca University of Waterloo]
-
+[http://www.uwaterloo.ca University of Waterloo] \n
 [https://uwaterloo.ca/electrical-computer-engineering/ Department of Electrical and Computer Engineering]
 
-Address : Waterloo, Ontario N2L 3G1, Canada
-
-Cell Phone: (+86) 150-2112-3526
-
-Office:     (+86) 731-88877881
-
-Email:      [mailto:f2lyu@uwaterloo.ca f2lyu@uwaterloo.ca]
-
-Research Interests: *VANETs*, *Data Science*, *Space-Air-Ground Integrated Networks*, *Edge Computing*
-
+Address : Waterloo, Ontario N2L 3G1, Canada \n
+Cell Phone: (\+86) 150-2112-3526 \n
+Office:     (\+86) 731-88877881 \n
+Email:      [mailto:f2lyu@uwaterloo.ca f2lyu@uwaterloo.ca]\n
 ~~~
 
-== Working Experience
+== Research Interests
 
-/Post-Doctoral Fellow/, Department of Electrical and Computer Engineering Waterloo, Ontario, Canada
-supervised by Prof. *Xuemin (Sherman) Shen*
+- VANETs, Data Science, Space-Air-Ground Integrated Networks, Edge Computing
 
-2018.09 – Present.
+== Recent NEWs ( [news.html More] )
+
+- add one
+- add two
+- To be added
+
+== Recent Publications ( [pub.html Full List] )
+
+- To be added
